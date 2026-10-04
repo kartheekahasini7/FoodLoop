@@ -6,6 +6,9 @@ Streamlit, and SQLite.
 It helps restaurant staff manage inventory, monitor expiry dates, record
 food waste, track donations, and view operational reports from one
 application.
+## 🚀 Live Demo
+
+👉 [Open FoodLoop Web App](https://foodloop.streamlit.app/)
 
 ## Features
 
